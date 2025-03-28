@@ -20,9 +20,9 @@ body {
     max-width: 400px;
     padding: 40px;
     border-radius: 16px;
-    background: rgba(3, 7, 249, 0.2);
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(12px);
+    background: rgba(231, 234, 230, 0.2);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    /* backdrop-filter: blur(12px); */
     text-align: center;
     display: flex;
     flex-direction: column;
